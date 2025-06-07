@@ -1,8 +1,5 @@
 # Foundry DAO Governance
 
-This is a section of the Cyfrin Foundry Solidity Course.
-
-*[⭐️ (6:05:45) | Lesson 14 | DAOs & Governance](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=21945s)*
 
 *Please note: ERC20 based voting is not always recommended, and I encourage you to explore other forms of governance like reputation based or "skin-in-the-game" based.*
 
